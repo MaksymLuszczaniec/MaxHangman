@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HangmanMax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C61DDB-188E-4200-A0F7-5C47D4713BE0}|HangmanMax\\HangmanMax.csproj|d:\\hangmanmax\\hangmanmax\\hangmanmaxtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C61DDB-188E-4200-A0F7-5C47D4713BE0}|HangmanMax\\HangmanMax.csproj|solutionrelative:hangmanmax\\hangmanmaxtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C61DDB-188E-4200-A0F7-5C47D4713BE0}|HangmanMax\\HangmanMax.csproj|d:\\hangmanmax\\hangmanmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C61DDB-188E-4200-A0F7-5C47D4713BE0}|HangmanMax\\HangmanMax.csproj|solutionrelative:hangmanmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangmanMaxtool.cs",
+              "DocumentMoniker": "D:\\HangmanMax\\HangmanMax\\HangmanMaxtool.cs",
+              "RelativeDocumentMoniker": "HangmanMax\\HangmanMaxtool.cs",
+              "ToolTip": "D:\\HangmanMax\\HangmanMax\\HangmanMaxtool.cs",
+              "RelativeToolTip": "HangmanMax\\HangmanMaxtool.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:16:27.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HangmanMax\\HangmanMax\\Program.cs",
+              "RelativeDocumentMoniker": "HangmanMax\\Program.cs",
+              "ToolTip": "D:\\HangmanMax\\HangmanMax\\Program.cs",
+              "RelativeToolTip": "HangmanMax\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:52:31.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

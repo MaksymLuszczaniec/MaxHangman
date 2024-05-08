@@ -1,0 +1,14 @@
+D:\HangmanMax\HangmanMax\obj\Debug\net8.0\HangmanMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\HangmanMax\HangmanMax\obj\Debug\net8.0\HangmanMax.AssemblyInfoInputs.cache
+D:\HangmanMax\HangmanMax\obj\Debug\net8.0\HangmanMax.AssemblyInfo.cs
+D:\HangmanMax\HangmanMax\obj\Debug\net8.0\HangmanMax.csproj.CoreCompileInputs.cache
+D:\HangmanMax\HangmanMax\bin\Debug\net8.0\HangmanMax.exe
+D:\HangmanMax\HangmanMax\bin\Debug\net8.0\HangmanMax.deps.json
+D:\HangmanMax\HangmanMax\bin\Debug\net8.0\HangmanMax.runtimeconfig.json
+D:\HangmanMax\HangmanMax\bin\Debug\net8.0\HangmanMax.dll
+D:\HangmanMax\HangmanMax\bin\Debug\net8.0\HangmanMax.pdb
+D:\HangmanMax\HangmanMax\obj\Debug\net8.0\HangmanMax.dll
+D:\HangmanMax\HangmanMax\obj\Debug\net8.0\refint\HangmanMax.dll
+D:\HangmanMax\HangmanMax\obj\Debug\net8.0\HangmanMax.pdb
+D:\HangmanMax\HangmanMax\obj\Debug\net8.0\HangmanMax.genruntimeconfig.cache
+D:\HangmanMax\HangmanMax\obj\Debug\net8.0\ref\HangmanMax.dll
